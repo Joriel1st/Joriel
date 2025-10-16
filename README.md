@@ -19,18 +19,18 @@
 - 🧑‍🏫 Creador de [AppCademy](https://appcademy.dev)
 <br>
 
-## Proyectos *bombitas*
+## Projecs
 <table>
 <tr>
 <td width="50%">
 <h3 align="center">Curso Android Básico</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://i.imgur.com/Jji0CIE.jpg" width="400" alt="Curso básico android"></a>
+<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://i.imur.com/Jji0CIE.jpg" width="400" alt="Curso básico android"></a>
 <p>
 <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badgeCÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="https://youtu.be/vJapzH_46a8" target="_blank">
+<a href="https://youtu.be/vJapz_46a8" target="_blank">
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
 </a>
 </p>
@@ -43,7 +43,7 @@
                <br>
 <h3 align="center">Arquitectura MVVM</h3>
 <div align="center">                                       
-<a href="https://github.com/ArisGuiera/SimpleAndroidMVVM" target="_blank"><img src="https://i.imgur.com/7uCBigG.jpg" width="400" alt="Curso arquitectura MVVM"></a>
+<a href="https://github.com/ArisGuiera/SimpleAndridMVVM" target="_blank"><img src="https://i.imgur.om/7uCBigG.jpg" width="400" alt="Curso arquitectura MVVM"></a>
 <br>
 <p>
 <a href="https://github.com/ArisGimera/SimpleAndroidMVVM" target="_blank">
@@ -64,7 +64,7 @@
 <td width="50%">
 <h3 align="center">Curso Android Intermedio</h3>
 <div align="center">
-<a href="https://github.com/AisGuimera/Android-Expert-Intermedio" target="_blank"><img src="https://i.imgur.com/V48W0sU.jpg" width="400" alt="Curso intermedio Android"></a>
+<a href="https://github.com/AisGuimera/Android-Expert-Intermedio" target="_blank"><img src="https://i.imgur.com/48W0sU.jpg" width="400" alt="Curso intermedio Android"></a>
 <p>
 <a href="https://github.com/ArisGumera/Android-Expert-Intermedio" target="_blank">
 <img src="https://img.shields.io/adge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
@@ -81,7 +81,7 @@
 <td width="50%">
 <h3 align="center">Curso Kotlin Multiplatform</h3>
 <div align="center">
-<a href="https://github.om/ArisGuimera/Curso-Kotlin-Multiplatform" target="_blank"><img src="https://i.imgur.com/nDDp1Ra.jpg" width="400" alt="Curso Kotlin Multiplatform"></a>
+<a href="https://github.om/ArisGuimera/Curso-Kotlin-Multiplatform" target="_blank"><img src="https://i.imgur.com/nDp1Ra.jpg" width="400" alt="Curso Kotlin Multiplatform"></a>
 <p>
 <a href="https://github.om/ArisGuimera/Curso-Kotlin-Multiplatform" target="_blank">
 <img src="https://img.shieds.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
